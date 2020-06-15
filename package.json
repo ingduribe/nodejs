@@ -1,0 +1,23 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Project using Bull and Arena",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ingduribe/nodejs.git"
+  },
+  "author": "David Uribe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ingduribe/nodejs/issues"
+  },
+  "homepage": "https://github.com/ingduribe/nodejs#readme",
+  "dependencies": {
+    "bull": "^3.14.0",
+    "bull-arena": "^2.8.1"
+  }
+}
